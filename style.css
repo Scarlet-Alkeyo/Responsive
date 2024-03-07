@@ -1,0 +1,105 @@
+#navbar{
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex: auto;
+    gap: 5%;
+    text-align: center;
+
+}
+    
+
+#family{
+
+    position: relative;
+    text-align: center;
+}
+#words{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    
+}
+#button{
+    background-color: yellow;
+    color:black;
+}
+#family2{
+
+    float: right;
+    margin-top: 20;
+    
+
+}
+#Foreign{
+    float: right;
+    margin-top: 10%;
+    top: 20%;
+    right: 20%;
+}
+
+
+#storage{
+
+    position: relative;
+   
+}
+#words{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+ 
+   
+    
+#storage{
+
+    display: flex;
+    flex: auto;
+    gap: 10%;
+    text-align: center;
+}
+.small{
+    display: flex;
+    gap: 30%;
+
+}
+#log{
+    display: flex;
+    flex: auto;
+    gap: 20%;
+}
+#chose{
+display: flex;
+flex: auto;
+ margin-top: 5%; 
+ text-align: center;
+
+} 
+
+#do{
+    text-align: center;
+}
+#date{
+    text-align: center;
+    width: 50px;
+}
+@media only screen and (width:100%) {
+    body{
+}
+         }
+
+
+
+
+      
+      
+ 
+
